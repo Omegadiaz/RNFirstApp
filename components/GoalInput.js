@@ -52,7 +52,7 @@ const styles = StyleSheet.create({
     marginBottom:10,
   },
   buttonContainer: {
-    flexDirection: 'row',
+    flexDirection: 'row.row-reverse',
     justifyContent: "space-between",
     width: '60%'
   },
